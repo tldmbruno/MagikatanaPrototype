@@ -1,5 +1,5 @@
 # Magikatana
-An opensource tech-demo, mixing Ghost Runner and Devil May Cry together in a fast paced, first person melee combat. Designed to test my skills as a game developer, specifically as a Artist Technician and Gameplay Engineer.
+An opensource tech-demo, mixing Ghost Runner and Devil May Cry together in a fast paced, first person melee combat. Designed to test my skills as a game developer, specifically as Gameplay Engineer.
 
 Developed by Bruno Peres ([@tldmbruno](https://www.linkedin.com/in/tldmbruno/)), using the Unreal Engine 4.27.
 
