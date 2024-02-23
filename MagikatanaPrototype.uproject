@@ -18,5 +18,11 @@
 			"Name": "ControlRig",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"AllDesktop"
 	]
 }
